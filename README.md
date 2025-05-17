@@ -32,7 +32,7 @@ This project is a Mental Health Support Chatbot built using [Streamlit](https://
 
 4. **Set up your OpenAI API key:**
     - Obtain your OpenAI API key from [OpenAI](https://platform.openai.com/account/api-keys).
-    - Add your API key to the environment variable `OPENAI_API_KEY` or replace `'your_openai_api_key'` in the code with your actual API key.
+    - Add your API key to the environment variable `OPENAI_API_KEY` in .env file.
 
 ## Usage
 
