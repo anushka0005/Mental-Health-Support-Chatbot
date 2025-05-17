@@ -1,10 +1,13 @@
+import os
 import streamlit as st
 import openai
 from textblob import TextBlob
 import pandas as pd
+from dotenv import load_dotenv
 
-# Change it to your open ai api key
-openai.api_key = 'your_openai_api_key'
+#Load the OPENAI_API_KEY from .env
+load_dotenv()
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 
 # Function to generate a response from GPT-3
