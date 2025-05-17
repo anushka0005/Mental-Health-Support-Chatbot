@@ -15,7 +15,7 @@ This project is a Mental Health Support Chatbot built using [Streamlit](https://
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Vikranth3140/Mental-Health-Support-Chatbot.git
+    git clone https://github.com/anushka0005/Mental-Health-Support-Chatbot
     cd Mental-Health-Support-Chatbot
     ```
 

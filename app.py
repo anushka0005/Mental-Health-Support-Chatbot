@@ -107,9 +107,9 @@ if user_message:
 # Display resources
 st.sidebar.title("Resources")
 st.sidebar.write("If you need immediate help, please contact one of the following resources:")
-st.sidebar.write("1. National Suicide Prevention Lifeline: 1-800-273-8255")
-st.sidebar.write("2. Crisis Text Line: Text 'HELLO' to 741741")
-st.sidebar.write("[More Resources](https://www.mentalhealth.gov/get-help/immediate-help)")
+st.sidebar.write("1. National Suicide Prevention Lifeline: +91 9152987821")
+st.sidebar.write("Available from Monday to Saturday: 10:00 am to 8:00 pm")
+st.sidebar.write("[More Resources](https://www.helpguide.org)")
 
 # Display session summary
 if st.sidebar.button("Show Session Summary"):
